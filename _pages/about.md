@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 I am a Master’s student in Multimodal Intelligence Research (MIR) Lab at Yonsei University, advised by [Youngjae Yu](https://yj-yu.github.io/home/). I was a research intern at [Naver Cloud](https://www.navercloudcorp.com/lang/en/) and researched the alignment of [HyperCLOVA X](https://www.ncloud.com/solution/featured/hyperclovax). Before the Master’s degree,
 I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.
 
-**Currently, I'm looking for Ph.D courses (2025 Fall)! 🙌**
+**Currently, I'm looking for Ph.D. programs (2025 Fall)!**
