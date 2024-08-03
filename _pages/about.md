@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's Student <a href='https://www.yonsei.ac.kr/en_sc/index.jsp'>@ Multimodal Intelligence Research (MIR) Lab</a><br>Department of Artificial Intelligence, <a href='https://www.yonsei.ac.kr/en_sc/index.jsp'>Yonsei University</a><br>
+subtitle: Master's Student <a href='https://mirlab.yonsei.ac.kr'>@ Multimodal Intelligence Research (MIR) Lab</a><br>Department of Artificial Intelligence, <a href='https://www.yonsei.ac.kr/en_sc/index.jsp'>Yonsei University</a><br>
 
 profile:
   align: right
