@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: M.S. Student, <a href='https://ai.yonsei.ac.kr/eng/index.php'>Yonsei University</a>
+subtitle: M.S. student, <a href='https://ai.yonsei.ac.kr/eng/index.php'>Yonsei University</a>
 
 profile:
   align: right
