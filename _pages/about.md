@@ -18,4 +18,4 @@ I am an M.S. student in the [Multimodal Intelligence Research (MIR) Lab](https
 
 My research goal is to **develop an embodied agent that autonomously discovers and acquires knowledge through experiences**. To this end, I aim to find scalable approaches for how embodied agents can **learn through the physical world without human supervision, not limited to physical constraints**. Currently, I am researching related research topics to achieve efficient long-context multimodal generative models and continual learning through self-supervision for AI alignment.
 
-**🙌 Looking for Ph.D. programs! (2025 Fall) 🙌**
+**🙌 Looking for Ph.D. programs! 🙌**
